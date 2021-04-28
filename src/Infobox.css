@@ -1,0 +1,32 @@
+.InfoBox{
+height: 90px;
+width: 150px;
+padding-bottom: 3px;
+
+
+
+background: rgba( 255, 255, 255, 0.00 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.1 );
+backdrop-filter: blur( 4.0px );
+-webkit-backdrop-filter: blur( 4.0px );
+border-radius: 7px;
+}
+
+
+
+.InfoBox__title{
+    padding-top: 20px;
+    padding-left: 20px;
+    color:"333333";
+    opacity: 0.4;
+    font-family: 'GothamPro-light';
+}
+
+.InfoBox__cases{
+    padding-top: 5px;
+    font-size: 20px;
+    padding-left: 20px;
+    color:"333333"
+    
+    
+}
